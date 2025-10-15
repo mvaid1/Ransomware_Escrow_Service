@@ -122,3 +122,7 @@ if __name__ == "__main__":
 ```
 ### Demonstration Video
 You can refer to this [link](./POC_video.mp4) for demonstration video for the same
+
+### Slides
+
+Slides for better understand of the concept can be accesed via this [link](./Presentation.pdf)
